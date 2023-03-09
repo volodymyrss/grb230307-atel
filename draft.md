@@ -8,16 +8,15 @@
 
 # GRB 230307A: INTEGRAL upper limit on Hard X-ray emission afterglow
 
-<!-- TODO: SPI sat and nonsat rates, SPI-ACS, afterglow -->
+At the time of the very bright GRB 230307A (GCN #33405, GCN #33406, GCN #33407, GCN #33410, GCN #33411, GCN #33412, GCN #33413, GCN #33414, GCN #33415, GCN #33416, GCN #33418, GCN #33419, GCN #33424, GCN #33425, GCN #33427, GCN #33428, GCN #33429, GCN #33430, GCN #33431, GCN #33434, GCN #33437, GCN #33438, GCN #33439, GCN #33442, GCN #33443) INTEGRAL was pointing 74 deg from the GRB direction. Exceptionally high flux lead to detection in various ratemeters of INTEGRAL often causing saturation. As is sometimes the case for exceptional GRBs, BGO-attenuated non-vetoed SPI GeD rate reveals clear signal, giving an idea of the true intensity of the burst. The most information is avaialble in SPI-ACS, which does not reveal any early afterglow, common in very bright GRBs (such as GRB 130427A, GRB 221009A, GRB080319B, etc)
 
-Following the detection of the very luminous GRB~230307A by Fermi/GBM and others (GCN #33405, GCN #33406, GCN #33407, GCN #33410, GCN #33411, GCN #33412, GCN #33413, GCN #33414, GCN #33415, GCN #33416, GCN #33418, GCN #33419, GCN #33424, GCN #33425, GCN #33427, GCN #33428, GCN #33429, GCN #33430, GCN #33431, GCN #33434, GCN #33437, GCN #33438, GCN #33439, GCN #33442, GCN #33443), we have performed INTEGRAL pointed observations of the GRB~230307A location.
-
-INTEGRAL observation was scheduled at the time when the best available localization was provided by the combination of the Fermi/GBM localization and early IPN localization. Location of the higher-precision IPN localization was within partially coded are of the observation.
+INTEGRAL follow-up observation was scheduled at the time when the best available localization was provided by the combination of the Fermi/GBM and early IPN localizations. Location of the higher-precision IPN localization was within partially coded area of the observation, reducing the effective exposure comparing to optimal situation.
 
 INTEGRAL pointed observation lasted from 2023-03-08T11:35:00 (T0 + 19.8 hours, where T0 is 2023-03-07T15:44:07) to 2023-03-09T02:18:20 (T0 + 34.6 hours) with a total exposure time of 28.2 ks (for ISGRI).
 
+We do not find any significant signal, and put a limit on any source within the IPN box, including also to the possible X-ray and optical afterglow, at the level of 4.8e-11 erg cm-2 s-1. This limit is about 1.2 orders of magnitude lower than the detection in the case of GRB 221009A. 
 
-The upper limit is factor XX lower than in the case of GRB221009A (and factor XX lower in ratio to prompt emission luminosity). appears rather similar to GRB120711A, but at 10 times smaller distance.
+<!-- The upper limit is factor XX lower than in the case of GRB221009A (and factor XX lower in ratio to prompt emission luminosity). appears rather similar to GRB120711A, but at 10 times smaller distance. -->
 
 We are grateful to the INTEGRAL Groud Segment team for ever more quickly scheduling the observations.
 
