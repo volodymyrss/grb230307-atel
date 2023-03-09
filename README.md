@@ -4,7 +4,7 @@
 
 # GRB 230307A: INTEGRAL upper limit on Hard X-ray emission afterglow
 
-At the time of the very bright GRB 230307A (\VAR{literature.referring_gcns}) INTEGRAL was pointing \VAR{prompt.sc.theta | int} deg from the GRB direction. Exceptionally high flux lead to detection in various ratemeters of INTEGRAL often causing saturation. As is sometimes the case for exceptional GRBs, BGO-attenuated non-vetoed SPI GeD rate reveals clear signal, giving an idea of the true intensity of the burst. The most information is avaialble in SPI-ACS, which does not reveal any early afterglow, common in very bright GRBs (such as GRB 130427A, GRB 221009A, GRB080319B, etc)
+At the time of the very bright GRB 230307A (\VAR{literature.referring_gcns}) INTEGRAL was pointing \VAR{prompt.sc.theta | int} deg from the GRB direction. Exceptionally high flux lead to detection in various ratemeters of INTEGRAL often causing saturation. As is sometimes the case for exceptional GRBs, BGO-attenuated non-vetoed SPI GeD rate reveals clear signal, giving an idea of the true intensity of the burst. The most information is avaialble in SPI-ACS, which does not reveal any early afterglow, common in very bright GRBs like GRB 130427A, GRB 221009A, GRB080319B, etc.
 
 INTEGRAL follow-up observation was scheduled at the time when the best available localization was provided by the combination of the Fermi/GBM and early IPN localizations. Location of the higher-precision IPN localization was within partially coded area of the observation, reducing the effective exposure comparing to optimal situation.
 
