@@ -18,7 +18,7 @@ INTEGRAL follow-up observation was scheduled at the time when the best available
 
 INTEGRAL pointed observation lasted from 2023-03-08 11:35:00 (T0 + 19.8 hours, where T0 is 2023-03-07 15:44:07) to 2023-03-09 02:18:20 (T0 + 34.6 hours) with a total exposure time of 28.2 ks (for ISGRI).
 
-We do not find any significant signal, and put a limit on any source within the IPN box, including also to the possible X-ray and optical afterglow, at the level of 4.8e-11 erg cm-2 s-1. This limit is about 1.2 orders of magnitude lower than the detection in the case of GRB 221009A. 
+We do not find any significant signal, and put a limit on any source within the IPN box, including also to the possible X-ray and optical afterglow, at the level of 4.8e-11 erg cm-2 s-1 in 3 - 200 keV range, assuming powerlaw spectrum with a slope of -2. This limit is about 1.2 orders of magnitude lower than the detection in the case of GRB 221009A. 
 
 <!-- The upper limit is factor XX lower than in the case of GRB221009A (and factor XX lower in ratio to prompt emission luminosity). appears rather similar to GRB120711A, but at 10 times smaller distance. -->
 
