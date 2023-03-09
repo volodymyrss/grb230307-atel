@@ -12,7 +12,7 @@ At the time of the very bright GRB 230307A ([GCN #33405](https://gcn.gsfc.nasa.g
 
 INTEGRAL follow-up observation was scheduled at the time when the best available localization was provided by the combination of the Fermi/GBM and early IPN localizations. Location of the higher-precision IPN localization was within partially coded area of the observation, reducing the effective exposure comparing to optimal situation.
 
-INTEGRAL pointed observation lasted from 2023-03-08T11:35:00 (T0 + 19.8 hours, where T0 is 2023-03-07T15:44:07) to 2023-03-09T02:18:20 (T0 + 34.6 hours) with a total exposure time of 28.2 ks (for ISGRI).
+INTEGRAL pointed observation lasted from 2023-03-08 11:35:00 (T0 + 19.8 hours, where T0 is 2023-03-07T15:44:07) to 2023-03-09 02:18:20 (T0 + 34.6 hours) with a total exposure time of 28.2 ks (for ISGRI).
 
 We do not find any significant signal, and put a limit on any source within the IPN box, including also to the possible X-ray and optical afterglow, at the level of 4.8e-11 erg cm-2 s-1. This limit is about 1.2 orders of magnitude lower than the detection in the case of GRB 221009A. 
 
