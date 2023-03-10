@@ -6,7 +6,7 @@
 
 At the time of the very bright GRB 230307A (\VAR{literature.referring_gcns}), INTEGRAL was pointing \VAR{prompt.sc.theta | int} deg from the GRB direction. Such an exceptionally high flux lead to a detection in various ratemeters of INTEGRAL often causing saturation. 
 
-We note both SPI-ACS and PICsIT observations somewhat surprisingly not reveal early afterglow and no emission past T0+20~s, with an approximate upper limit on 75-2000 keV flux between T0+20s and of T0+100s at the level f XX erg cm-2 s-1.
+We note both SPI-ACS and PICsIT observations somewhat surprisingly not reveal early afterglow and no emission past T0+20~s, with an approximate upper limit on 75-2000 keV flux between T0+50s and of T0+200s at the level f XX erg cm-2 s-1.
 
 <!-- . As is sometimes the case for exceptional GRBs, BGO-attenuated non-vetoed SPI GeD rate reveals clear signal, giving an idea of the true intensity of the burst, suggesting that SPI-ACS signal was not strongly attenuated, and provide an estimate of the fluence at the level of XX in 75-2000 keV -->
 
