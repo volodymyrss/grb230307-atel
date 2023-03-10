@@ -2,7 +2,7 @@
 
 \LOAD{../oda.py}
 
-# GRB 230307A: INTEGRAL upper limit on Hard X-ray emission afterglow
+# GRB 230307A: INTEGRAL upper limit on Hard X-ray afterglow
 
 At the time of the very bright GRB 230307A (\VAR{literature.referring_gcns}), INTEGRAL was pointing \VAR{prompt.sc.theta | int} deg from the GRB direction. Such an exceptionally high flux lead to a detection in various ratemeters of INTEGRAL often causing saturation. We note that the SPI-ACS observation somewhat surprisingly does not reveal any early afterglow, which is common in very bright GRBs like GRB 080319G, GRB 130427A, GRB 221009A, etc.
 
