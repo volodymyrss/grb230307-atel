@@ -18,7 +18,7 @@ We do not find any significant signal, and put a limit on any source within the 
 
 <!-- The upper limit is factor XX lower than in the case of GRB221009A (and factor XX lower in ratio to prompt emission luminosity). appears rather similar to GRB120711A, but at 10 times smaller distance. -->
 
-We are grateful to the INTEGRAL Groud Segment team for the quick scheduling of these observations
+We are grateful to the INTEGRAL Ground Segment team for the quick scheduling of these observations
 
 All of the results except PICsIT were produced MMODA platform, the code is available [here](zenodo).
 
